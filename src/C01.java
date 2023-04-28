@@ -13,5 +13,9 @@ public class C01 {
         System.out.println("bugün hava baya baya.. güzel");
         //version5
         System.out.println("bugün hava yağmurlu ve bulutlu ");
-    } //version6
+        //version6
+        System.out.println("bugün hava baya baya.fsfsdfsdf. güzel");
+        //version7
+
+    }
 }
