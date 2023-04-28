@@ -7,8 +7,9 @@ public class C01 {
         System.out.println("bugün hava cok  güzel");
         //version02
         System.out.println("bugün hava bayagit güzel");
-        //version3
-
+         //version3
+        System.out.println("bugün hava baya baya  güzel");
+        //version4
 
     }
 }
