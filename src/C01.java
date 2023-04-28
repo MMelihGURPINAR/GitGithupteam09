@@ -4,6 +4,8 @@ public class C01 {
 
         System.out.println("bugün hava güzel");
         //version01
+        System.out.println("bugün hava cok  güzel");
+        //version02
 
 
     }
