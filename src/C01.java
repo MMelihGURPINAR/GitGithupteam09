@@ -10,6 +10,7 @@ public class C01 {
          //version3
         System.out.println("bugün hava baya baya  güzel");
         //version4
-
+        System.out.println("bugün hava baya baya.. güzel");
+        //version5
     }
 }
